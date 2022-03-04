@@ -1,5 +1,7 @@
 # Alfred Emoji Snippets
 
+> :warning: This (gimbo/alfred-emoji-snippets) is a fork of the original at [ericwbailey/alfred-emoji-snippets](https://github.com/ericwbailey/alfred-emoji-snippets), where I've gathered all the snippets into a single collection (`Gimbo's Big Emoji Collection.alfredsnippets`) and done some other tweaks; see `gimbo.py` for more information.
+
 There are a lot of emoji out there. [Alfred](https://www.alfredapp.com/) is cool.
 
 This repo stores Alfred text snippets for emoji, organization and names informed via [Emojipedia](https://emojipedia.org/)'s categories. Project heavily inspired by [Joel Califa's Alfred Emoji Pack](http://joelcalifa.com/blog/alfred-emoji-snippet-pack/).
@@ -15,7 +17,7 @@ This repo stores Alfred text snippets for emoji, organization and names informed
 
 **A:** Double-click on each `.alfredsnippets` file you want to add. If Alfred is installed on your computer you will be prompted to import it.
 
-**Q:** What's up with Aliases? 
+**Q:** What's up with Aliases?
 
 **A:**  I use 👋 a lot more than 🌊. This is a catch-all category that lets you apply an additional name to emoji.
 

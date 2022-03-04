@@ -1,3 +1,9 @@
+## gimbo additions
+
+workspace
+.venv
+.vscode
+
 ## Project-specific files and folders #########################################
 
 
